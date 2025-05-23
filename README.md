@@ -6,7 +6,7 @@ From product trends 📈 to customer behavior 🧠—this notebook breaks it all
 
 ## 📄 🏆Workshop Certificate:
 
-![Workshop Certificate](images/workshop_certificate.png)
+![Workshop Certificate](workshop_certificate.png)
 
 
 #🔍 Key Highlights:
