@@ -5,7 +5,13 @@ From product trends 📈 to customer behavior 🧠—this notebook breaks it all
 
 🏆 Certificate:
 
-"C:\Users\HP\OneDrive\Desktop\workshop certificate.png"
+git add certificate.png
+git commit -m "git add certificate.png
+git commit -m "Add certificate image"
+git push origin main
+"
+git push origin main
+
 
 🔍 Key Highlights:
 ✅ Data cleaning & preprocessing
