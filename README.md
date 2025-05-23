@@ -5,13 +5,7 @@ From product trends 📈 to customer behavior 🧠—this notebook breaks it all
 
 🏆 Certificate:
 
-git add certificate.png
-git commit -m "git add certificate.png
-git commit -m "Add certificate image"
-git push origin main
-"
-git push origin main
-
+workshop certificate.png
 
 🔍 Key Highlights:
 ✅ Data cleaning & preprocessing
