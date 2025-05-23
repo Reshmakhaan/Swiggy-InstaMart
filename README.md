@@ -4,15 +4,12 @@
 Uncovering insights from Swiggy Instamart orders using the power of Python and data science!
 From product trends 📈 to customer behavior 🧠—this notebook breaks it all down.
 
-## 📄 Workshop Certificate
+## 📄 🏆Workshop Certificate:
 
 ![Workshop Certificate](images/workshop_certificate.png)
 
-🏆 Certificate:
 
-
-
-🔍 Key Highlights:
+#🔍 Key Highlights:
 ✅ Data cleaning & preprocessing
 
 📦 Product-level analytics
@@ -23,7 +20,7 @@ From product trends 📈 to customer behavior 🧠—this notebook breaks it all
 
 📐 Visualizations with matplotlib & seaborn
 
-📁 Tech Stack:
+#📁 Tech Stack:
 pandas 🐼
 
 numpy ➕
