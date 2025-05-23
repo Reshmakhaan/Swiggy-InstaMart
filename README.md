@@ -5,7 +5,7 @@ From product trends 📈 to customer behavior 🧠—this notebook breaks it all
 
 🏆 Certificate:
 
-C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-05-23 212145.png
+"C:\Users\HP\OneDrive\Desktop\workshop certificate.png"
 
 🔍 Key Highlights:
 ✅ Data cleaning & preprocessing
