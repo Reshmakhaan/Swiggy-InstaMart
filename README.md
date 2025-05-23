@@ -5,7 +5,7 @@ From product trends 📈 to customer behavior 🧠—this notebook breaks it all
 
 🏆 Certificate:
 
-workshop certificate.png
+images/workshop_certificate.png
 
 🔍 Key Highlights:
 ✅ Data cleaning & preprocessing
